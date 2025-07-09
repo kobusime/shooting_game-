@@ -6,8 +6,9 @@ git lfs clone git@github.com:kobusime/shooting_game-.git
 今後はアニメーション、サウンドを実装し、ゲーム内容を充実させる予定です。
 制作：大野紘幹
 
+https://github.com/user-attachments/assets/c51eeb11-a8a5-49ce-864c-00b63df5f922
 
 
 
-Uploading redpandacompress_Unity Web Player _ shooting game - プロファイル 1 - Microsoft_ Edge 2025-07-09 23-39-07.mp4…
+Uploading Unity Web Player _ shooting game.mp4…
 
